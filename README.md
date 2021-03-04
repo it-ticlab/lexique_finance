@@ -1,3 +1,4 @@
 # Lexique Financier
-Simple lexique sur la finance 
-Source : http://sikadvisory.com/sika-academy/lexique-boursier
+Simple lexique sur la finance. 
+Source des données : http://sikadvisory.com/sika-academy/lexique-boursier
+Demo : https://labdemos.tk/lexique_boursier/
